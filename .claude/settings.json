@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/gabeecwb -name \"sssasfasf.svg\" -not -path \"*/node_modules/*\" 2>/dev/null | head -20)",
+      "Read(//Users/gabeecwb/**)"
+    ]
+  }
+}
